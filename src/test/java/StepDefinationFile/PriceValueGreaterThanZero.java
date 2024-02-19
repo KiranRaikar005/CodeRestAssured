@@ -23,7 +23,7 @@ import io.restassured.specification.RequestSpecification;
 import junit.framework.Assert;
 import static org.hamcrest.Matchers.*;
 
-public class scenario2 
+public class PriceValueGreaterThanZero 
 
 {
 	

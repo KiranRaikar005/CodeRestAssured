@@ -12,7 +12,7 @@ import static org.hamcrest.Matchers.*;
 import java.util.List;
 
 import org.testng.Assert;
-public class Scenario6 
+public class FilterProduct 
 
 {
 	@Given("Endpoint url is given")

@@ -25,7 +25,7 @@ import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
 import junit.framework.Assert;
 
-public class scenario1 
+public class PagerAPI 
 
 {
 	//Defining Global Variable

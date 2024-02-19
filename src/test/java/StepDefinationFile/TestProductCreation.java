@@ -10,7 +10,7 @@ import io.cucumber.java.en.When;
 import static io.restassured.RestAssured.*;
 
 
-public class Scenario5 
+public class TestProductCreation 
 
 {
 	String response;

@@ -19,7 +19,7 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.specification.RequestSpecification;
 import junit.framework.Assert;
 
-public class Scenario3 
+public class PagerParameters 
 
 {
 	

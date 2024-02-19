@@ -22,7 +22,7 @@ import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
 import io.restassured.specification.RequestSpecification;
 
-public class Scenario4 
+public class CreationOfProduct 
 
 
 {
